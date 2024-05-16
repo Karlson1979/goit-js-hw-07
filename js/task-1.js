@@ -1,7 +1,7 @@
 
 
 
-const categoriesList = document.querySelector('#categories');
+
 
 
 const categoryItems = document.querySelectorAll('.item');
